@@ -1,15 +1,15 @@
 site_name: Bin2Cell Explorer Docs
 site_description: Developer documentation for the Bin2Cell Explorer TissUUmaps plugin.
-site_url: https://jjoseph12.github.io/TissuuMaps-Bin2Cell-Visualization-/
-repo_url: https://github.com/jjoseph12/TissuuMaps-Bin2Cell-Visualization-
-repo_name: jjoseph12/TissuuMaps-Bin2Cell-Visualization-
+site_url: https://jjoseph12.github.io/Cell-Explorer-Documenation/
+repo_url: https://github.com/jjoseph12/Cell-Explorer-Documenation
+repo_name: jjoseph12/Cell-Explorer-Documenation
 theme:
   name: material
   palette:
     scheme: default
     primary: custom
     accent: custom
-  custom_dir: docs/overrides
+  custom_dir: overrides
   features:
     - navigation.tabs
     - navigation.sections
