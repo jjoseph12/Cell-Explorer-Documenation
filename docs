@@ -1,0 +1,7 @@
+<script>start("/Users/jjoseph/.tissuumaps/docs/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("images","images",1,64,"64 B",1762969174,"11/12/25, 10:39:34 AM");</script>
+<script>addRow("overrides","overrides",1,96,"96 B",1762889419,"11/11/25, 12:30:19 PM");</script>
+<script>addRow("architecture.md","architecture.md",0,5800,"5.7 kB",1762533621,"11/7/25, 9:40:21 AM");</script>
+<script>addRow("guide.md","guide.md",0,8699,"8.5 kB",1762972975,"11/12/25, 11:42:55 AM");</script>
+<script>addRow("index.md","index.md",0,1630,"1.6 kB",1762972976,"11/12/25, 11:42:56 AM");</script>
